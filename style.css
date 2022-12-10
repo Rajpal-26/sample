@@ -1,0 +1,14 @@
+.submit{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-color: red;
+}
+.reset{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-color: red;
+    margin-left: 53px;
+    
+}
